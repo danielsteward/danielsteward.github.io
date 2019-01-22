@@ -1,12 +1,12 @@
 <span id="a">dan@ready</span>:<span id="b">~</span><span id="c">$</span> cd dansteward/<!-- comment??? -->About_Us
 <span id="a">coder@readier</span>:<span id="b">~</span><span id="c">$</span> cat <!-- comment??? -->DanText.txt<br/><br/>
-My favorite code quote, "<span id="k">
+My favorite code quote:<span id="k">
 while(no sucess)
 {
 	tryAgain();
 	if(dead)
 		break;
-}</span>". <!-- sjkfhskjf -->
+}</span><!-- sjkfhskjf -->
 
 Hey There! This is my (brief version) CV.<!-- comment??? --><p>A lipsun dorra seckum.</p>
 <p>As you may have seen on my GitHub profile I am in the middle of an Open University computing degree.</p> <!-- comment??? -->
