@@ -1,6 +1,7 @@
-<span id="a">dan@ready</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@readier</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">while(no sucess)
+<span id="a">dan@ready</span>:<span id="b">~</span><span id="c">$</span> cd dansteward/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">coder@readier</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->DanText.txt<br/><br/>
+My favorite code quote, "<span id="k">
+while(no sucess)
 {
 	tryAgain();
 	if(dead)
