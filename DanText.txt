@@ -8,11 +8,9 @@ while(no sucess)
 		break;
 }</span><!-- sjkfhskjf -->
 
-Hello. This is my (brief version) CV.<!-- comment??? --><p>A lipsun dorra seckum.</p>
+Hello. This is my (brief version) CV.
 <p>As you may have seen on my GitHub profile I am in the middle of an Open University computing degree.</p> <!-- comment??? -->
 <p>Although study is interesting I have discovered that building and coding a real-life application motivates me even more.<a href="link"> portfolio</a>.</p><!-- comment??? -->
-<p>I have recently finished a project for a large US company called TNS which involved creating an application that enabled the tracking of their client’s point of sale devices. This was fascinating as I started from scratch.</p><!-- comment??? -->
-
 <p>I have recently finished a project for a large US company called TNS which involved creating an application that enabled the tracking of their client’s point of sale devices. This was fascinating as I started from scratch.</p><!-- comment??? -->
 
 <p>Although it was a comparatively small, simple program designing and coding it without any guide apart from non-functional requirements was daunting, frustrating but ultimately wonderful.</p><!-- comment??? -->
