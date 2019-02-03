@@ -9,7 +9,7 @@ while(austerity)
 
 <p>Hello. This is my (brief version) CV. You can view a more traditional CV <a href="cv_daniel_steward_feb_2019.pdf">here</a> (click once the page has finished loading).</p>
 <p>A very quick summary of life since school – 30 years ago; I have a politics degree from Leeds University (1992) and have since worked in advertising, marketing, sales and now work with computers.</p> <!-- comment??? -->
-<p>I am currently self-employed running a small computer help company, <a href="www.a3computersupport.co.uk">A3 Computer Support.</a><!-- comment??? -->
+<p>I am currently self-employed running a small computer help company, <a href="https://www.a3computersupport.co.uk/">A3 Computer Support.</a><!-- comment??? -->
 <p>I am cutting down on the amount of IT work for the next few months whilst I prepare for a programming exam so I will be able to commit to a fair number of hours to the campaign assistant role.</p><!-- comment??? -->
 
 <p>I have a car and full driving licence.</p><!-- comment??? -->
