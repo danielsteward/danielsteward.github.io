@@ -1,23 +1,23 @@
-<span id="a">Daniel Steward CV</span>:<span id="b">~</span><span id="c">$</span> cat <!-- comment??? -->DanText.txt<br/><br/>
+<span id="a">dan@ready</span>:<span id="b">~</span><span id="c">$</span> cd dansteward/<!-- comment??? -->About_Us
+<span id="a">coder@readier</span>:<span id="b">~</span><span id="c">$</span> cat <!-- comment??? -->DanText.txt<br/><br/>
 My favorite code quote:<span id="k">
-while(austerity)
+while(no sucess)
 {
-	tryAgain(jCorbyn);
-	if(may)
+	tryAgain();
+	if(dead)
 		break;
 }</span><!-- sjkfhskjf -->
 
-<p>Hello. This is my (brief version) CV. You can view a more traditional CV <a href="cv_dan_steward_Feb_2019_final.pdf">here</a> (click once the page has finished loading).</p>
-<p>A very quick summary of life since school – 30 years ago; I have a politics degree from Leeds University (1992) and have since worked in advertising, marketing, sales and now work with computers.</p> <!-- comment??? -->
-<p>I am currently self-employed running a small computer help company, <a href="https://www.a3computersupport.co.uk/">A3 Computer Support.</a><!-- comment??? -->
-<p>I am cutting down on the amount of IT work for the next few months whilst I prepare for a programming exam so I will be able to commit to a fair number of hours to the campaign assistant role.</p><!-- comment??? -->
+Hello. This is my (brief version) CV.
+<p>As you may have seen on my GitHub profile I am in the middle of an Open University computing degree.</p> <!-- comment??? -->
+<p>Although study is interesting I have discovered that building and coding a real-life application motivates me even more.<a href="cv_daniel_steward_feb_2019.pdf"> portfolio</a>.</p><!-- comment??? -->
+<p>I have recently finished a project for a large US company called TNS which involved creating an application that enabled the tracking of their client’s point of sale devices. This was fascinating as I started from scratch.</p><!-- comment??? -->
 
-<p>I have a car and full driving licence.</p><!-- comment??? -->
+<p>Although it was a comparatively small, simple program designing and coding it without any guide apart from non-functional requirements was daunting, frustrating but ultimately wonderful.</p><!-- comment??? -->
 
-<p>I have worked a little with Elizabeth Evans in Woking who would give me a reference - although I haven't been in contact with her for a few years now. I can provide other references on request.</p><!-- comment??? -->
+<p>It is because of the hands-on experience as describe above that I have put my university study on pause and am currently taking the Oracle Java exams.</p><!-- comment??? -->
 
-<p>As I work in computing/IT and have worked in digital marketing I will be able to help in any of these areas as well.</p>
+<p>I am looking to work for an experienced Java/Android developer (plus all the associated technologies) to gain experience of larger projects and best practices.</p><!-- comment??? -->
+<!-- <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>-->
 
-<p>Extra to this is my desire to see Labour in power as soon as possible. Obvious I suppose.</p>
-
-<p>To contact me please email me dan@a3computersupport.co.uk or call/text 07980690066.</p>
+For further details and references please email me at dansteward@gmail.com</a>
