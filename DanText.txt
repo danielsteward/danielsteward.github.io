@@ -9,15 +9,15 @@ while(no sucess)
 }</span><!-- sjkfhskjf -->
 
 Hello. This is my (brief version) CV.
-<p>As you may have seen on my GitHub profile I am in the middle of an Open University computing degree.</p> <!-- comment??? -->
-<p>Although study is interesting I have discovered that building and coding a real-life application motivates me even more.</p><!-- <a href="cv_daniel_steward_feb_2019.pdf"> portfolio</a>. -->
-<p>I have recently finished a project for a large US company called TNS which involved creating an application that enabled the tracking of their client’s point of sale devices. This was fascinating as I started from scratch.</p><!-- comment??? -->
+<p>As you may have seen on my GitHub profile I am in the middle of an Open University computing degree (I am also relatively ancient and have had a conventional career - which has advantages).</p> <!-- comment??? -->
+<p>Although study is interesting I have discovered that building and coding a real-life application motivates me rather more.</p><!-- <a href="cv_daniel_steward_feb_2019.pdf"> portfolio</a>. -->
+<p>I have recently finished a project for a large US company called TNS which involved creating an application that enabled the tracking of their client’s PEDs. This was fascinating as I started from scratch.</p><!-- comment??? -->
 
 <p>Although it was a comparatively small, simple program designing and coding it without any guide apart from non-functional requirements was daunting, frustrating but ultimately wonderful.</p><!-- comment??? -->
 
 <p>It is because of the hands-on experience as describe above that I have put my university study on pause and am currently taking the Oracle Java exams.</p><!-- comment??? -->
 
-<p>I am looking to work for an experienced Java/Android developer (plus all the associated technologies) to gain experience of larger projects and best practices.</p><!-- comment??? -->
+<p>I am looking to work for an experienced Java/Android developer (plus all the associated technologies) to gain experience (for peanuts initially) of larger projects and best practice.</p><!-- comment??? -->
 <!-- <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>-->
 
 For further details and references please email me at dansteward@gmail.com</a>
